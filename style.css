@@ -1,0 +1,36 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #aaaa ;
+    
+
+}
+
+.card{
+    
+    background-color: #ffff;
+    justify-content: center;
+    
+    align-items: center;
+    padding :200px;
+    margin-bottom:25px;
+    border-radius:25px;
+    max-width: 250px;
+   height: 200px;
+    
+}
+button{
+    padding:15px;
+    border-radius:15px ;
+    
+}
+#meme{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    width: 250;
+     object-fit: cover;
+
+}
